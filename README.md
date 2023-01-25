@@ -3,9 +3,9 @@
 <img src="https://user-images.githubusercontent.com/57648788/214493057-f642570f-cdb4-4d67-a829-76d83e180a05.png"/>
 
 <br>
-
+<br>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=1000&background=FFFFFF00&center=true&repeat=false&width=600&lines=%F0%9F%91%8B+Hi+there.+;+Welcom+to+'Harris+World'+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=1000&background=FFFFFF00&center=true&repeat=true&width=600&lines=%F0%9F%91%8B+Hi+there.+;+Welcom+to+'Harris+World'+%E2%9C%A8"/>
 </div>
 
 
