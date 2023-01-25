@@ -4,8 +4,9 @@
 
 <br>
 <br>
+<br>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=1000&background=FFFFFF00&center=true&repeat=true&width=600&lines=%F0%9F%91%8B+Hi+there!+;+Welcom+to+'Harris+World'+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=1000&background=FFFFFF00&center=true&repeat=true&width=600&height=150&lines=%F0%9F%91%8B+Hi+there!+;+Welcom+to+'Harris+World'+%E2%9C%A8"/>
 </div>
 
 
