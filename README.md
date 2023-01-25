@@ -2,9 +2,6 @@
 <div>
 <img src="https://user-images.githubusercontent.com/57648788/214495859-382f44b4-929f-4893-b299-f4b4776d8398.png"/>
 
-<br>
-<br>
-<br>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=1000&background=FFFFFF00&center=true&repeat=true&width=600&height=150&lines=%F0%9F%91%8B+Hi+there!+;+Welcom+to+'Harris+World'+%E2%9C%A8"/>
 </div>
@@ -16,18 +13,15 @@
 <pr>Hi There! I'm a 'Full Stack Web Developer'.<br>
 I'm a persistent person, who study hard day and night for be a good developer.</pr>
   
-#
 <h2>⚡ ...</h2>
 <p>💪Exercise,🖥Youtube,💻Programming,🎥Movies,🎮Games</p>
   
-#
 <h2>Tech Stack </h2>
 
-<!-- <img src="https://shields.io/badge/-444?logo=&logoColor=white&style=flat-square"/<b>--></b>
 
 <!-- &logoColor=white -->
 <br>
-<b>Languages</b>
+<p><b>Languages</b></p>
 <p>
     <img src="https://shields.io/badge/Java-444?logo=CoffeeScript&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Javascript-444?logo=javascript&logoColor=white&style=flat-square"/>
@@ -44,7 +38,7 @@ I'm a persistent person, who study hard day and night for be a good developer.</
 </p>
 <br>
 
-<b>Framework</b>
+<p><b>Framework</b></p>
 <p>
     <img src="https://shields.io/badge/Node.js-444?logo=nodedotjs&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Express-444?logo=express&logoColor=white&style=flat-square"/>
@@ -70,7 +64,7 @@ I'm a persistent person, who study hard day and night for be a good developer.</
 </p>
 <br>
 
-<b>Web Servers</b>
+<p><b>Web Servers</b></p>
 <p>
     <img src="https://shields.io/badge/NGINX-444?logo=NGINX&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Apache Tomcat-444?logo=apachetomcat&logoColor=white&style=flat-square"/>
@@ -78,7 +72,7 @@ I'm a persistent person, who study hard day and night for be a good developer.</
 </p>
 <br>
 
-<b>Operating Systems</b>
+<p><b>Operating Systems</b></p>
 <p>
     <img src="https://shields.io/badge/Linux-444?logo=Linux&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Ubuntu-444?logo=Ubuntu&logoColor=white&style=flat-square"/>
@@ -87,7 +81,7 @@ I'm a persistent person, who study hard day and night for be a good developer.</
 </p>
 <br>
 
-<b>Etc.</b>
+<p><b>Etc.</b></p>
 <p>
     <img src="https://shields.io/badge/Docker-444?logo=Docker&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Google Cloud Platform-444?logo=Googlecloud&logoColor=white&style=flat-square"/>
