@@ -117,8 +117,8 @@ docker
  -->
 
 #
-![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=harris91&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harris91&layout=compact&theme=tokyonight)
+<img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=harris91&show_icons=true&theme=tokyonight" height='150'/>
+<img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harris91&layout=compact&theme=tokyonight" height='150'/>
 
 </div>
 
