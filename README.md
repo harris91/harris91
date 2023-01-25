@@ -1,25 +1,31 @@
 
+<div>
+<img src="https://user-images.githubusercontent.com/57648788/214493057-f642570f-cdb4-4d67-a829-76d83e180a05.png"/>
+
+<br>
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=1000&background=FFFFFF00&center=true&repeat=false&width=600&lines=%F0%9F%91%8B+Hi+there.+;+Welcom+to+'Harris+World'+%E2%9C%A8"/>
+</div>
 
 
-<h2>🍀 Me 🍀</h2>
 
-<p>Hi There! I'm a 'Full Stack Web Developer'.</p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.</p>
+
+> <pr>Hi There! I'm a 'Full Stack Web Developer'.<br>
+I'm a persistent person, who study hard day and night for be a good developer.</pr>
   
 #
 <h2>⚡ ...</h2>
 <p>💪Exercise,🖥Youtube,💻Programming,🎥Movies,🎮Games</p>
   
 #
-<h2>🔥 Tech Stack 🔥</h2>
+<h2>Tech Stack </h2>
 
-<!-- <img src="https://shields.io/badge/-444?logo=&logoColor=white&style=flat-square"/> -->
+<!-- <img src="https://shields.io/badge/-444?logo=&logoColor=white&style=flat-square"/<b>--></b>
 
 <!-- &logoColor=white -->
-
-<h3>Languages</h3>
+<br>
+<b>Languages</b>
 <p>
     <img src="https://shields.io/badge/Java-444?logo=CoffeeScript&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Javascript-444?logo=javascript&logoColor=white&style=flat-square"/>
@@ -34,9 +40,9 @@
     <img src="https://shields.io/badge/PowerShell-444?logo=PowerShell&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/JSON-444?logo=JSON&logoColor=white&style=flat-square"/>
 </p>
+<br>
 
-
-<h3>Framework</h3>
+<b>Framework</b>
 <p>
     <img src="https://shields.io/badge/Node.js-444?logo=nodedotjs&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Express-444?logo=express&logoColor=white&style=flat-square"/>
@@ -44,9 +50,10 @@
     <img src="https://shields.io/badge/Electron-444?logo=Electron&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/WebSquare-444?logo=Purism&logoColor=white&style=flat-square"/>
 </p>
+<br>
 
-
-<h3>Libraries</h3>
+<b>Libraries</b>
+<p>
     <img src="https://shields.io/badge/Vue.js-444?logo=vuedotjs&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/JQuery-444?logo=JQuery&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Socket.io-444?logo=socketdotio&logoColor=white&style=flat-square"/>
@@ -58,26 +65,27 @@
     <img src="https://shields.io/badge/SonarQube-444?logo=SonarQube&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Sequelize-444?logo=sequelize&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Darknet-444?logo=Terraform&logoColor=white&style=flat-square"/>
-<p>
 </p>
+<br>
 
-<h3>Web Servers</h3>
+<b>Web Servers</b>
 <p>
     <img src="https://shields.io/badge/NGINX-444?logo=NGINX&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Apache Tomcat-444?logo=apachetomcat&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/JSP-444?logo=Purism&logoColor=white&style=flat-square"/>
 </p>
+<br>
 
-
-<h3>Operating Systems</h3>
+<b>Operating Systems</b>
 <p>
     <img src="https://shields.io/badge/Linux-444?logo=Linux&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Ubuntu-444?logo=Ubuntu&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/CentOS-444?logo=CentOS&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Windows-444?logo=Windows&logoColor=white&style=flat-square"/>
 </p>
+<br>
 
-<h3>Etc.</h3>
+<b>Etc.</b>
 <p>
     <img src="https://shields.io/badge/Docker-444?logo=Docker&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Google Cloud Platform-444?logo=Googlecloud&logoColor=white&style=flat-square"/>
@@ -91,6 +99,7 @@
     <img src="https://shields.io/badge/PM2-444?logo=PM2&logoColor=white&style=flat-square"/>
     <br>
     <img src="https://shields.io/badge/git-444?logo=git&logoColor=white&style=flat-square"/>
+    <img src="https://shields.io/badge/svn-444?logo=svn&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Oracle-444?logo=Oracle&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/MySQL-444?logo=MySQL&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/MariaDB-444?logo=MariaDB&logoColor=white&style=flat-square"/>
