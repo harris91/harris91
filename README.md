@@ -125,8 +125,10 @@ docker
  -->
 
 #
-<img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=harris91&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000" height='150'/>
+<div align="center">
+<img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=harris91&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000" height='150' width="500"/>
 <img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harris91&layout=compact&theme=gotham&hide_border=true&bg_color=00000000" height='150'/>
+</div>
 
 </div>
 
