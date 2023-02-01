@@ -19,9 +19,11 @@ I hope to develop every beautiful things.</pr>
 
 <br>
 
-<h2>Tech Stack </h2>
 
-<!-- &logoColor=white -->
+<!-- 주석용 Start-->
+<script> 
+/*
+<h2>Tech Stack </h2>
 
 <p><b><u>Languages</u></b></p>
 <p>
@@ -67,10 +69,11 @@ I hope to develop every beautiful things.</pr>
 </p>
 <br>
 
-<p><b><u>Web Servers</u></b></p>
+<p><b><u>Servers</u></b></p>
 <p>
     <img src="https://shields.io/badge/NGINX-333?logo=NGINX&logoColor=white&style=flat-square"/>
     <img src="https://shields.io/badge/Apache Tomcat-333?logo=apachetomcat&logoColor=white&style=flat-square"/>
+    <img src="https://shields.io/badge/Apache-333?logo=apache&logoColor=white&style=flat-square"/>
     <!-- <img src="https://shields.io/badge/JSP-333?logo=Purism&logoColor=white&style=flat-square"/> -->
 </p>
 <br>
@@ -111,6 +114,9 @@ I hope to develop every beautiful things.</pr>
     <img src="https://shields.io/badge/Notion-333?logo=Notion&logoColor=white&style=flat-square"/>
     
 </p>
+*/
+</script>
+ <!--주석용 END -->
 
 
 <!-- 
