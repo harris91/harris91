@@ -1,12 +1,8 @@
 
 <div>
-<img src="https://user-images.githubusercontent.com/57648788/214495859-382f44b4-929f-4893-b299-f4b4776d8398.png"/>
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=1000&background=FFFFFF00&center=true&repeat=true&width=600&height=150&lines=%F0%9F%91%8B+Hi+there!+;+Welcom+to+'Harris+World'+%E2%9C%A8"/>
 </div>
-
-
 
 
 <h2>It's me</h2>
