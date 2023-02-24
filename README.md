@@ -10,10 +10,7 @@
 <pr>
 I like making things, I'm a fairly curious person.<br><br>
 
-Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.
-I hope to develop every beautiful things.</pr>
-
-
+I'm full-stack developer, I constantly strive to find better ways to solve challenging and complex tasks. When necessary, I explore new technologies and tools to foster innovation and creativity. Additionally, I have a passion for creating beauty and I aim to continuously grow in this field.
 #
 <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=harris91&show_icons=false&theme=dark&hide_border=true&bg_color=0d1117" height='150'/>
 <img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harris91&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height='150'/>
